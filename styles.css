@@ -4,6 +4,9 @@
     font-family: sans-serif;
 }
 
+body{
+    background-color:#c8e3ff;
+}
 .hero{
     position: relative;
     width: 100%;
