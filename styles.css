@@ -77,17 +77,18 @@ span{
     margin: 30px 0;
     border-radius: 5px;
 }
-@media (max-width:629px) {
-  img#optionalstuff {
-    display: none;
-  }
-}
+
 .images{
     width: 45%;
     height: 70%;
     position: absolute;
     bottom: 0;
     right: 100px;
+    @media (max-width:629px) {
+   {
+    display: none;
+  }
+}
 }
 
 .images img{
