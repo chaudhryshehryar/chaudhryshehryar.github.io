@@ -78,7 +78,7 @@ span{
     border-radius: 5px;
 }
 
-@media (max-width:629px) {
+@media (max-width:900px) {
   img#optionalstuff {
     display: none;
   }
